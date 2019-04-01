@@ -1,0 +1,13 @@
+/* #70E3A2,#0FB784,#108769,#095A49,#F60100,#70E3A2,#0FB784,#108769 */
+
+body {
+    background-color: #0FB784;
+}
+.logo {
+    width: 400px;
+    height: auto;
+}
+.btn-default {
+    background-color: #108769;
+    color: white;
+}
